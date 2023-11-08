@@ -1,0 +1,12 @@
+/* mwilliams: portfolio */
+.scrollup{
+    position: fixed;
+    bottom:20px;
+    right:0;
+    z-index: 5;
+    width: 40px;
+    border-radius: 14px 0 0 14px;
+    padding-left:5px;
+    background: #2C3E50 none repeat scroll 0% 0%;
+    
+}
